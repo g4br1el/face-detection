@@ -7,7 +7,7 @@
       
 
 ## Usage example Ubuntu
-1. start the Programm in the command line with the comand. ./[Program name] [video]
+1. start the Programm in the command line with the comand: ./[Program name] [video]
       e.g. ./Programm img/matrix.mp4  
 2. Let`s go!
 
